@@ -1,0 +1,26 @@
+body {
+   position: fixed;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: white;
+
+-webkit-user-select: none;
+	   -moz-user-select: none;
+	    -ms-user-select: none;
+	        user-select: none;
+
+background-color: black;
+
+
+}
+
+#gameCanvas {
+    border: 1px solid black;
+            margin: 0 auto;
+            display: block;
+
+background-color: #16203A;
+
+}
